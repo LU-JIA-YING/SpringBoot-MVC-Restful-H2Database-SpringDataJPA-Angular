@@ -1,0 +1,22 @@
+<h4> View User Details</h4>
+
+<table style="border:3px #cccccc solid;width:250px; height:30px;">
+    <div class="card-body">
+        <div>
+            <div>
+                <label> <b> ID: </b></label> {{user.id}}
+            </div>
+            <div>
+                <label> <b> Name: </b></label> {{user.name}}
+            </div>
+            <div>
+                <label> <b> Age: </b></label> {{user.age}}
+            </div>
+        </div>
+    </div>
+</table>
+
+<form (ngSubmit)="onSubmit()">
+    <br />
+    <button class="btn btn-success" type="submit">Submit</button>
+</form>
