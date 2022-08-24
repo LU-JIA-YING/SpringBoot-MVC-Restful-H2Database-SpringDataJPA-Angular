@@ -1,5 +1,16 @@
 # SpringBoot-MVC-Restful-H2Database-SpringDataJPA-Angular
 
+將 8/12 的課堂實作（user）串上前端
+
+使用 HTML 5 + CSS + JS 撰寫前端畫面以及功能，呼叫後端 API 回傳資料  
+可使用任意框架，例：Vue.js、React、Angular 或 CSS 框架，例：Bootstrap、Material-UI  
+呼叫後端 API 回傳資料 -> 畫面輸入資料或點擊按鈕，觸發呼叫後端 API，後端回傳資料，前端顯示在畫面上  
+以新增訂單的例子來說  
+畫面上需顯示訂單的欄位（e.g. 餐點、服務生）  
+使用者輸入資訊  
+使用者點擊按鈕，將資料傳送給後端（發送 API）  
+後端處理完成，回傳 response 給前端顯示結果  
+
 #### H2-Database：http://localhost:8080/h2-console
 * spring.datasource.url=jdbc:h2:mem:training
 * spring.datasource.driverClassName=org.h2.Driver
