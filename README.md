@@ -1,7 +1,6 @@
 # SpringBoot-MVC-Restful-H2Database-SpringDataJPA-Angular
 
-將 8/12 的課堂實作（user 
-SpringBoot-MVC-Restful-H2Database-SpringDataJPA/spring-restcontroller-UserDemo）串上前端
+將 8/12 的課堂實作（user）[SpringBoot-MVC-Restful-H2Database-SpringDataJPA/spring-restcontroller-UserDemo] 串上前端
 
 使用 HTML 5 + CSS + JS 撰寫前端畫面以及功能，呼叫後端 API 回傳資料  
 可使用任意框架，例：Vue.js、React、Angular 或 CSS 框架，例：Bootstrap、Material-UI  
